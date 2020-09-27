@@ -1,0 +1,5 @@
+= csoftz-region-country-svc
+
+20200926-V1.0.0
+
+World Region Country Service (Microservice)
